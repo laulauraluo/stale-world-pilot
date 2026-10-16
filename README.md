@@ -6,7 +6,7 @@ on what it saw. We measure whether it notices the change or acts on the old obse
 
 This is a simulated decision task for vision-language models, not a robot experiment: the agent picks a bay
 and an aisle, and Habitat's navmesh planner decides whether that route is passable. There is no robot
-control. Project page: `docs/index.html`. Results: `results/table.md`, `results/summary.csv`,
+control. Project page: https://laulauraluo.github.io/stale-world-pilot/ (source in `docs/`). Results: `results/table.md`, `results/summary.csv`,
 `results/fig_results.pdf`, and every raw reply in `results/<model>.jsonl`.
 
 ## Reproduce
