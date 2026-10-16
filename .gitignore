@@ -1,0 +1,10 @@
+env-hab/
+env-vlm/
+logs/
+anim/
+data/img/
+data/assets/
+data_test/
+results_smoke/
+__pycache__/
+.DS_Store

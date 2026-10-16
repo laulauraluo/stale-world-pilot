@@ -1,0 +1,6 @@
+Mistral-Small-3.2-24B memory: 394/400 identical
+Mistral-Small-3.2-24B recheck: 391/400 identical
+Mistral-Small-3.2-24B replay: 394/400 identical
+Qwen3-VL-8B memory: 400/400 identical
+Qwen3-VL-8B recheck: 397/400 identical
+Qwen3-VL-8B replay: 396/400 identical
